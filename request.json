@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "method": "clean_files",
+  "params": {
+    "action": "list",
+    "file_type": "pdf",
+    "folder": "/Users/matsuohiroki/Downloads",
+    "older_than_days": 0
+  }
+}
